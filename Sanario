@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<! -- Link Style -->
+
+<style>
+a:link, a:visited {
+  background-color: #FBA4C5;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #E890E0;
+}
+</style>
+</head>
+<body>
+</body>
+</html>
+<center><h1 style="background-color:#F7C1DA;">My favorite Sanario Characters</h1></center>
+<p> This is my website about my favorite Sanario Characters </p>
+<! -- Link Buttons -->
+
+<center>
+<a href="https://www.sanrio.com/" target="_blank">Buy Plush</a>
+
+</center>
+<h2 style="background-color:#FE7DAE;">Hello Kitty</h2>
+<center><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuThFWsl7rLHXF6B9GzZUsAzOLBlHdTt13RaiB4TCQ&s" width=200></center>
+<p>Due to the fact that she was a staple of almost everyone's childhood, Hello Kitty is one of my fave Sanario characters. for instance, items like posters, mugs, and bags. Hello Kitty "really managed to resonate with the idea of cuteness and femininity," KItty White is her actual name. Hello Kitty is vivacious, cheery, and amiable </p>
+</center>
+<h2 style="background-color:#F96D79;">My Melody</h2>
+<center><img src ="https://o.remove.bg/downloads/8beb4607-00a9-4820-850f-52139c176a2a/melody-sanrio-png-my-melody-clipart-115631706313hlwwgrcqf-removebg-preview.png" width=200></center>
+
+<p>My Melody is a little rabbit girl who was born in a forest in Mariland. She is a popular Sanrio character, in particular in Japan. She treasures her bright pink hood that her grandmother made for her.</p>
+
+</center>
+<h2 style="background-color:#A1F980;">Keroppi</h2>
+<center><img src ="https://o.remove.bg/downloads/e0f4b2bc-f2f5-4bf7-86f5-c31068ec01cf/images-removebg-preview.png" width=180></center>
+<p>  Keroppi is a frog character with large eyes and a V-shaped mouth. "Kero" means "frog's croak" and "Hasunoue" means "on a lily pad". Keroppi is portrayed with a large family and many friends who are frogs.Keroppi also has a very bubbly personality <p>
+</center>
+<h2 style="background-color:#BDEBF8;">Cinnamoroll</h2>
+<center><img src="http://images.shoutwiki.com/sanrio/2/23/Cinnamoroll.png" width=300></center>
+<p> Cinnamoroll (born March 6) is a male white and chubby puppy with long ears that enable him to fly. He has blue eyes, pink cheeks, and a tail that resembles a cinnamon roll. Cinnamoroll flies around the town looking for fun and new adventures with his friends and one of his main hobbies is eating.<p>
